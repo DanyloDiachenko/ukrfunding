@@ -1,23 +1,18 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-import ReactDOM from "react-dom/client";
-import {
-  BrowserRouter as Router,
-  Routes,
-  Route,
-} from "react-router-dom"
+import { BrowserRouter as Router, Routes, Route, } from "react-router-dom"
 
 import Header from './components/Header';
-import WeHelpSurface from './components/contentBlocks/page1_we_help_surface';
-import Page1Categories from './components/contentBlocks/page1_categories';
-import TeamMember from './components/contentBlocks/page1_meet_our';
-import SuccessStory from './components/contentBlocks/page1_success_story';
-import OurPartnership from './components/contentBlocks/page1_our_partnership';
-import RecentProjects from './components/contentBlocks/page1_recent_projects';
-import Numbers from './components/contentBlocks/page1_numbers';
-import AkselNews from './components/contentBlocks/page1_news';
-import DontMiss from './components/contentBlocks/page1_dont_miss';
+import WeHelpSurface from './components/contentBlocks/page1WeHelpSurface';
+import Page1Categories from './components/contentBlocks/page1Categories';
+import TeamMember from './components/contentBlocks/page1MeetOurTeam';
+import SuccessStory from './components/contentBlocks/page1SuccessStory';
+import OurPartnership from './components/contentBlocks/page1OurPartnership';
+import RecentProjects from './components/contentBlocks/page1RecentProjects';
+import Numbers from './components/contentBlocks/page1Numbers';
+import AkselNews from './components/contentBlocks/page1News';
+import DontMiss from './components/contentBlocks/page1DontMiss';
 import Footer from './components/Footer/index';
 
 import Details from './components/contentBlocks/page5_project_details';
@@ -31,7 +26,7 @@ import Fundraising from './components/contentBlocks/page2_fundraising';
 import Page2Categories from './components/contentBlocks/page2_categories';
 import OurMission from './components/contentBlocks/page2_our_mission';
 
-import HeaderModed from './components/contentBlocks/header_moded';
+import HeaderModed from './components/contentBlocks/headerModed';
 import Filtres from './components/contentBlocks/page3_filtres';
 import Page3Projects from './components/contentBlocks/page3_projects';
 
@@ -55,13 +50,13 @@ import Stories from './components/contentBlocks/page10_stories';
 import Categories from './components/contentBlocks/page11_categories';
 import Page115Projects from './components/contentBlocks/page11_projects';
 
-import ChangePasswordPage from './components/contentBlocks/change_password';
+import ChangePasswordPage from './components/contentBlocks/changePassword';
 
 import RegisterPage from './components/contentBlocks/register';
 
 import LoginPage from './components/contentBlocks/login';
 
-import FormAddProject from './components/contentBlocks/form_add_project';
+import FormAddProject from './components/contentBlocks/formAddProject';
 
 const HomePage_01 = () => { // page 1 
   return (
