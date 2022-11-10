@@ -37,11 +37,11 @@ import Page4Projects from './components/contentBlocks/page4Projects';
 import Contact from './components/contentBlocks/page6ContactUs';
 import BecomeOurPremPartner from './components/contentBlocks/page6BecomeOurPremiumPartner';
 
-import AkcelNews_page7 from './components/contentBlocks/page7_akcel_news';
+import AkcelNews_page7 from './components/contentBlocks/page7AkcelNews';
 
-import NewsDetails from './components/contentBlocks/page8_news_details';
-import WriteComment from './components/contentBlocks/page8_write_comment';
-import Page8Related from './components/contentBlocks/page8_related';
+import NewsDetails from './components/contentBlocks/page8NewsDetails';
+import WriteComment from './components/contentBlocks/page8WriteComment';
+import Page8Related from './components/contentBlocks/page8Related';
 
 import TeamMember_09 from './components/contentBlocks/page9_team';
 
