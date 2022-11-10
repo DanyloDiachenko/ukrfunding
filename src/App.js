@@ -20,11 +20,11 @@ import Page5Projects from './components/contentBlocks/page5_projects';
 import Support from './components/contentBlocks/page5_support_other_projects';
 import AboutProject from './components/contentBlocks/page5_about_project';
 
-import About from './components/contentBlocks/page2_about_our_company';
-import WhoWeAre from './components/contentBlocks/page2_who_we_are';
-import Fundraising from './components/contentBlocks/page2_fundraising';
-import Page2Categories from './components/contentBlocks/page2_categories';
-import OurMission from './components/contentBlocks/page2_our_mission';
+import About from './components/contentBlocks/page2AboutOurCompany';
+import WhoWeAre from './components/contentBlocks/page2WhoWeAre';
+import Fundraising from './components/contentBlocks/page2Fundraising';
+import Page2Categories from './components/contentBlocks/page2Categories';
+import OurMission from './components/contentBlocks/page2OurMission';
 
 import HeaderModed from './components/contentBlocks/headerModed';
 import Filtres from './components/contentBlocks/page3_filtres';
