@@ -27,8 +27,8 @@ import Page2Categories from './components/contentBlocks/page2Categories';
 import OurMission from './components/contentBlocks/page2OurMission';
 
 import HeaderModed from './components/contentBlocks/headerModed';
-import Filtres from './components/contentBlocks/page3_filtres';
-import Page3Projects from './components/contentBlocks/page3_projects';
+import Filtres from './components/contentBlocks/page3Filtres';
+import Page3Projects from './components/contentBlocks/page3Projects';
 
 import FilterCategory from './components/contentBlocks/page4_filter_category';
 import Donate from './components/contentBlocks/page4_donate_to';
