@@ -40,7 +40,7 @@ const Footer = () => {
                     </div>
                     <div className="col-lg-1 col-md-4 text-white text-center">
                         <div className="footer__title mt-5 pb-3">Akcel</div>
-                        <a href=''>
+                        <a href='/about-us'>
                             <div className='footer__item'>Why Akcel</div>
                         </a>
                         <a href=''>
@@ -79,19 +79,19 @@ const Footer = () => {
                     </div>
                     <div className="col-lg-1 col-md-4 text-white text-center">
                         <div className="footer__title mt-5 pb-3">Company</div>
-                        <a href=''>
+                        <a href='/about-us'>
                             <div className="footer__item">About us</div>
                         </a>
-                        <a href=''>
+                        <a href='/contact-us'>
                             <div className="footer__item">Contact us</div>
                         </a>
-                        <a href=''>
+                        <a href='/projects-4-col'>
                             <div className="footer__item">Products</div>
                         </a>
-                        <a href=''>
+                        <a href='/login'>
                             <div className="footer__item">Login</div>
                         </a>
-                        <a href=''>
+                        <a href='/register'>
                             <div className="footer__item">Sign Up</div>
                         </a>
                         <a href=''>
