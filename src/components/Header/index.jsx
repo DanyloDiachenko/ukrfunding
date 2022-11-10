@@ -52,15 +52,14 @@ const Header = () => {
                             </div>
                             <div className='col mt-4'>
                                 <div className='d-flex justify-content-center'>
-                                    <a href='/' className='header-bottom__ref'>Projects</a>
-                                    {/* <img src='./image/header_down_arrow.svg' /> */}
+                                    <a href='/projects-4-col' className='header-bottom__ref'>Projects</a>
                                 </div>
                             </div>
                             <div className='col mt-4'>
                                 <a href='/latest-news' className='header-bottom__ref'>News</a>
                             </div>
                             <div className='col mt-4'>
-                                <a href='/conact-us' className='header-bottom__ref'>Contact Us</a>
+                                <a href='/contact-us' className='header-bottom__ref'>Contact Us</a>
                             </div>
                         </div>
                     </div>
