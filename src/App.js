@@ -43,11 +43,11 @@ import NewsDetails from './components/contentBlocks/page8NewsDetails';
 import WriteComment from './components/contentBlocks/page8WriteComment';
 import Page8Related from './components/contentBlocks/page8Related';
 
-import TeamMember_09 from './components/contentBlocks/page9_team';
+import TeamMember_09 from './components/contentBlocks/page9Team';
 
-import Stories from './components/contentBlocks/page10_stories';
+import Stories from './components/contentBlocks/page10Stories';
 
-import Categories from './components/contentBlocks/page11_categories';
+import Categories from './components/contentBlocks/page11Categories';
 import Page115Projects from './components/contentBlocks/page11_projects';
 
 import ChangePasswordPage from './components/contentBlocks/changePassword';
