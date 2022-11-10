@@ -34,8 +34,8 @@ import FilterCategory from './components/contentBlocks/page4FilterCategory';
 import Donate from './components/contentBlocks/page4DonateTo';
 import Page4Projects from './components/contentBlocks/page4Projects';
 
-import Contact from './components/contentBlocks/page6_contact_us';
-import BecomeOurPremPartner from './components/contentBlocks/page6_Become_our_Premium_Partner';
+import Contact from './components/contentBlocks/page6ContactUs';
+import BecomeOurPremPartner from './components/contentBlocks/page6BecomeOurPremiumPartner';
 
 import AkcelNews_page7 from './components/contentBlocks/page7_akcel_news';
 
