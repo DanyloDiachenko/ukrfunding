@@ -30,9 +30,9 @@ import HeaderModed from './components/contentBlocks/headerModed';
 import Filtres from './components/contentBlocks/page3Filtres';
 import Page3Projects from './components/contentBlocks/page3Projects';
 
-import FilterCategory from './components/contentBlocks/page4_filter_category';
-import Donate from './components/contentBlocks/page4_donate_to';
-import Page4Projects from './components/contentBlocks/page4_projects';
+import FilterCategory from './components/contentBlocks/page4FilterCategory';
+import Donate from './components/contentBlocks/page4DonateTo';
+import Page4Projects from './components/contentBlocks/page4Projects';
 
 import Contact from './components/contentBlocks/page6_contact_us';
 import BecomeOurPremPartner from './components/contentBlocks/page6_Become_our_Premium_Partner';
