@@ -39,6 +39,7 @@
     font-size: 18px;
     color: #717579;
     padding-bottom: 5px;  
+    transition: 0.3s;
 }
 
 .header-bottom__ref:hover {
