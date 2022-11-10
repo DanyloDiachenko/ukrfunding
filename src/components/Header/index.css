@@ -38,12 +38,12 @@
     font-weight: 500;
     font-size: 18px;
     color: #717579;
-    transition: 0.3s;
+    padding-bottom: 5px;  
 }
 
 .header-bottom__ref:hover {
     color: #000000;
-    font-weight: 600;
+    border-bottom: 2px solid black;
 }
 
 .header-bottom__button {

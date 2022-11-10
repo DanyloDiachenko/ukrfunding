@@ -38,7 +38,9 @@ const Header = () => {
             <div className='container mt-4 header-bottom pb-4'>
                 <div className='row d-flex'>
                     <div className='col-lg-3 col-md-12 header-bottom__logo'>
-                        <img src="./image/logo_Akcel.png" />
+                        <a href='/'>
+                            <img src="./image/logo_Akcel.png" />
+                        </a>
                     </div>
                     <div className='col-lg-6'>
                         <div className='row text-center d-flex justify-content-center align-items-center'>
