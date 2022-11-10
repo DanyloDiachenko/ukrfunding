@@ -15,10 +15,10 @@ import AkselNews from './components/contentBlocks/page1News';
 import DontMiss from './components/contentBlocks/page1DontMiss';
 import Footer from './components/Footer/index';
 
-import Details from './components/contentBlocks/page5_project_details';
-import Page5Projects from './components/contentBlocks/page5_projects';
-import Support from './components/contentBlocks/page5_support_other_projects';
-import AboutProject from './components/contentBlocks/page5_about_project';
+import Details from './components/contentBlocks/page5ProjectDetails';
+import Page5Projects from './components/contentBlocks/page5Projects';
+import Support from './components/contentBlocks/page5SupportOtherProjects';
+import AboutProject from './components/contentBlocks/page5AboutProject';
 
 import About from './components/contentBlocks/page2AboutOurCompany';
 import WhoWeAre from './components/contentBlocks/page2WhoWeAre';
