@@ -14,7 +14,7 @@ const HeaderModed = () => {
                                 </div>
                                 <div className='col-lg-6 col-md-12 mt-3'>
                                     <button className='text-white header__top__left__button-moded d-flex align-items-center justify-content-center'>
-                                        <img src="../image/header_moded_login.svg" />
+                                        <img src="../image/header_moded_login.svg" alt='login' />
                                         <div className='mx-2 text-success'>Sign Up Now</div>
                                     </button>
                                 </div>

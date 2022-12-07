@@ -8,7 +8,7 @@ const Header = () => {
                     <div className='col-lg-7 col-md-12 header__top__left px-3'>
                         <div className='row'>
                             <div className='col-lg-6 col-md-12 mt-4 header__top__left__text'>
-                                <div>Welcome to Akcel, Crowdfunding & Charity Agency</div>
+                                <div>Welcome to Ukrfunding, Crowdfunding & Charity Agency</div>
                             </div>
                             <div className='col-lg-6 col-md-12 mt-3'>
                                 <a href="/register">
@@ -24,11 +24,11 @@ const Header = () => {
                         <div className='row'>
                             <div className='col-lg-6 col-md-12 mt-4 d-flex header__top__right__phone-email'>
                                 <img src="./image/header_top_phone.svg" alt='phone' />
-                                <div className='px-3'>394-091-3312</div>
+                                <div className='px-3'>111-222-3334</div>
                             </div>
                             <div className='col-lg-6 col-md-12 mt-4 d-flex header__top__right__phone-email'>
                                 <img src="./image/header_top_email.svg" alt='email' />
-                                <div style={{ marginLeft: '15px' }}>support@akcel.com</div>
+                                <div style={{ marginLeft: '15px' }}>support@ukrfunding.com</div>
                             </div>
                         </div>
                     </div>
