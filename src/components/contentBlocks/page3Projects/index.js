@@ -1,5 +1,5 @@
 import './index.css';
-import OneProject from './one_project';
+import OneProject from './OneProject';
 
 const Page3Projects = () => {
 
@@ -126,7 +126,7 @@ const Page3Projects = () => {
             campaign: '12 Campaign',
             location: 'New York, London',
         },
-    ]
+    ];
 
     return (
         <div className="container recent_projects">
@@ -139,7 +139,7 @@ const Page3Projects = () => {
                 <button className='text-uppercase text-white recent_projects__btn'>load more</button>
             </div>
         </div>
-    )
-}
+    );
+};
 
 export default Page3Projects;

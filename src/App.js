@@ -26,7 +26,7 @@ import Fundraising from './components/contentBlocks/page2Fundraising';
 import Page2Categories from './components/contentBlocks/page2Categories';
 import OurMission from './components/contentBlocks/page2OurMission';
 
-import HeaderModed from './components/contentBlocks/headerModed';
+import HeaderModed from './components/contentBlocks/HeaderModed';
 import Filtres from './components/contentBlocks/page3Filtres';
 import Page3Projects from './components/contentBlocks/page3Projects';
 
@@ -48,15 +48,13 @@ import TeamMember_09 from './components/contentBlocks/page9Team';
 import Stories from './components/contentBlocks/page10Stories';
 
 import Categories from './components/contentBlocks/page11Categories';
-import Page115Projects from './components/contentBlocks/page11_projects';
+import Page115Projects from './components/contentBlocks/page11Projects';
 
-import ChangePasswordPage from './components/contentBlocks/changePassword';
+import ChangePasswordPage from './components/contentBlocks/ChangePassword';
 
-import RegisterPage from './components/contentBlocks/register';
+import RegisterPage from './components/contentBlocks/Register';
 
-import LoginPage from './components/contentBlocks/login';
-
-import FormAddProject from './components/contentBlocks/formAddProject';
+import LoginPage from './components/contentBlocks/Login';
 
 const HomePage_01 = () => { // page 1 
   return (
@@ -195,8 +193,8 @@ const AkcelTeamMember_09 = () => { // page 9
       <DontMiss />
       <Footer />
     </secion>
-  )
-}
+  );
+};
 
 const SuccessProjectStory_10 = () => { // page 10
   return (
@@ -206,8 +204,8 @@ const SuccessProjectStory_10 = () => { // page 10
       <DontMiss />
       <Footer />
     </section>
-  )
-}
+  );
+};
 
 const ProjectCategories_11 = () => { // page 11
   return (
@@ -218,8 +216,8 @@ const ProjectCategories_11 = () => { // page 11
       <BecomeOurPremPartner />
       <Footer />
     </section>
-  )
-}
+  );
+};
 
 const ChangePassword = () => { // change info about user
   return (
@@ -228,7 +226,7 @@ const ChangePassword = () => { // change info about user
       <ChangePasswordPage />
       <Footer />
     </section>
-  )
+  );
 };
 
 const Register = () => { // register page
@@ -248,17 +246,7 @@ const Login = () => { // login page
       <LoginPage />
       <Footer />
     </section>
-  )
-};
-
-const AddProject = () => { // add project form page // ADD STYLES TO PAGE
-  return (
-    <section>
-      <Header />
-      <FormAddProject />
-      <Footer />
-    </section>
-  )
+  );
 };
 
 function App() {
@@ -280,7 +268,6 @@ function App() {
           <Route path="/change-password" element={<ChangePassword />} />
           <Route path="/register" element={<Register />} />
           <Route path="/login" element={<Login />} />
-          <Route path="/add-project" element={<AddProject />} />
         </Routes>
       </Router>
     </div>
